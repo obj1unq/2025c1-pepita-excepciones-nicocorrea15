@@ -74,3 +74,5 @@ object roque {
 	}
 }
 
+// conectado
+
